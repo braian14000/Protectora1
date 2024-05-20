@@ -1,0 +1,114 @@
+body{
+    background-color:rgb(255, 255, 255);
+    display: block;
+}
+
+
+header{
+    padding-top: 1%;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: sticky;
+
+
+
+}
+
+
+nav{
+    text-align:center;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+main{
+    display: block;
+
+
+
+}
+
+footer{
+    text-align: center;
+    display: flex;
+    padding-top: 50px;
+    padding-left: 430px;
+}
+.imagenfooter{
+    height: 90px; 
+    width: 100px;
+    margin-left: 40%;
+}
+    
+
+p{
+    font-size: 20px;
+}
+
+h1{
+    font-size: 35px;
+    width: 100%;
+    left: 100px;
+    
+}
+main h2{
+    font-size: 35px;
+    text-align: center;
+}
+main p{
+    font-size: 20px;
+}
+
+.cont1{
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.cont2{
+    margin-right: 300px;
+    padding-top: 10px;
+    margin-left: 200px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 700px;
+}
+.cont3{
+    padding-top: 5%;
+    margin-left: 200px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 800px;
+}
+.infons{
+    margin-left: 80px;
+}
+
+
+article{
+    width: 500px;
+    height: 620px;
+}
+
+form{
+    font-size: 40px;
+    padding-top: 5%;
+    text-align: center;
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+form #celular {
+    font-size: 28px;
+}
+
+
+
+
+
